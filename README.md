@@ -1,1 +1,1 @@
-Using Model Checking for Formally Analyzing Weather Forecasting Models
+Enhancing Forecast Reliability through Formal Verification: A Model Checking Approach for Weather Prediction Models
