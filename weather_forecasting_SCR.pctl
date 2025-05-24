@@ -1,4 +1,4 @@
-// What is the probability of occurence of the (S,S,R) state, i.e., the sunny weather on two days followed by a rainy, in future?
+// What is the probability of occurence of the (S,S,C) state, i.e., the sunny weather on two days followed by a cloudy, in future?
 P=? [ F x=1 ]
 
 // What is the probability of occurence of the (S,S,S) state, i.e., sunny state if yesterday and day before yesterday was sunny, in future?
