@@ -40,4 +40,3 @@ P=? [ F<=5 x=13 ]
 
 // What is the probability of occurrence of the snowy state on three consecutive days, i.e., (Sn,Sn,Sn) during the second week?
 P=? [ F [8,14] x=22 ]
-
