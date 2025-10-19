@@ -49,4 +49,3 @@ P>0.09 [ F [8,14] x=8 ]
 
 // What is the probability of occurrence of the rainy state on three consecutive days, i.e., (R,R,R) during the second week?
 P=? [ F [8,14] x=12 ]
-
